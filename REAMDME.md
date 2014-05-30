@@ -2,6 +2,7 @@
 first commit
 
 # git チュートリアル
-feather-A
+feature-A
 feature-B
 aaaaa
+feature-C
