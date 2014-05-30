@@ -7,3 +7,4 @@ feature-B
 aaaaa
 feature-C
 feature-D
+ remote
